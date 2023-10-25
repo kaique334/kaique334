@@ -1,7 +1,7 @@
 ![arquivo](https://github.com/kaique334/kaique334/assets/121323930/04e85872-e71e-48da-a4d0-c5fedc8e5e72)
 
 ### Olá Eu sou o Kaique Monteiro 👋🏻
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](Atualmente não possuo Blog!)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]
 
 ![kaique334 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique334&show_icons=true&theme=dracula)
 
