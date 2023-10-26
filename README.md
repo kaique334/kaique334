@@ -23,9 +23,7 @@
 ![kaique334 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique334&show_icons=true&theme=dracula) 
 ![kaique334 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique334&show_icons=true&theme=dracula)
 
-# ISSUE STATS
-<-ISSUE-STAT-HERE-> 
-<-ISSUE-END-HERE-> 
+ 
 
 ## Opus Magnum de Iconologia da tecnologia 🧙🏻‍♂️ 
 <div style="disply: inline_block"><br/>
